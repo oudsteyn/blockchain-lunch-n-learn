@@ -1,6 +1,6 @@
 # Blockchain Lunch & Learn
 
-Quik introduction to blockchain development using Ethereum.
+A quick introduction to blockchain development using Ethereum.
 
 ## Tools / Dependencies
 
@@ -30,5 +30,11 @@ To get the source code and install app dependencies, just type:
 ```bash
 git clone git@github.com:oudsteyn/blockchain-lunch-n-learn.git
 cd ./blockchain-lunch-n-learn
-npm install
 ```
+
+## Agenda
+
+* Introduction to Ethereum and Dapps
+* Development Environment
+* Introduction to Smart Contracts
+* Creating Your First Application
